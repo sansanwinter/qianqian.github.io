@@ -1,35 +1,37 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: 三三的小屋
+title: 三三的小屋
+description: 三三是最可爱，最漂亮的小改改
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: 948656367@qq.com
+disqus_username: panzhen
 show_hero: true
 menu:
-  - title: Home
+  - title: 首页
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: 关于
+    url: /about/
+  - title: 联系
+    url: /contact/
+  - title: 去过
+    url: /feed.xml/
+  - title: 链接
+    url: /links/   
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: panzhen
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
